@@ -1,84 +1,71 @@
 PavVault Privacy Policy
 
-Effective date: July 2026
+Effective: August 2026
 
-1. Introduction
+Introduction
 
-PavVault respects your privacy and is designed to help users organize and manage their product warranties, receipts and important documents.
+PavVault respects your privacy and is designed to help you organize and manage your product warranties, receipts and important documents. This policy explains how your information is stored and handled when using the app.
 
-This Privacy Policy explains how information is stored and handled when using the application.
+Information Stored
 
+PavVault may store information you enter, including:
 
+Product names
+Store or seller names
+Purchase dates
+Warranty expiration dates
+Product categories
+Product prices
+Receipt images
+Warranty documents
 
-2. Information Stored
+If you sign in with Google to use Cloud Backup, PavVault also accesses basic Google account information (such as your email address) to identify you for that feature.
 
-PavVault may store information entered by the user, including:
+Data Storage
 
-• Product names
-• Store or seller names
-• Purchase dates
-• Warranty expiration dates
-• Product categories
-• Product prices
-• Receipt images
-• Warranty documents
+By default, your information is stored locally on your device.
 
+If you choose Cloud Backup, a single backup file is stored in a private, app-specific area of your own Google Drive. This area is not visible in your regular Drive folders and PavVault cannot access any other files in your Drive — only the backup file it creates itself.
 
-3. Data Storage
+PavVault does not upload, sell, rent or share your personal information with third parties, other than Google, and solely to provide Cloud Backup if you choose to use it.
 
-Your information is stored locally on your device.
+PavVault's use and transfer of information received from Google APIs adheres to the Google API Services User Data Policy, including the Limited Use requirements.
 
-PavVault does not upload, sell, rent or share your personal information with third parties.
+Receipt Images and Documents
 
-Future features such as cloud backup may require changes to this Privacy Policy and will only operate after user consent.
+Documents you add remain private and are stored to help you manage your own warranties.
 
+You are responsible for ensuring you have the legal right to store any documents you add.
 
-
-4. Receipt Images and Documents
-
-Documents added to PavVault remain private and are stored for the purpose of helping users manage their own warranties.
-
-Users are responsible for ensuring they have legal rights to store the documents they add.
-
-
-
-5. Notifications
+Notifications
 
 Warranty reminders are generated locally on your device to inform you about upcoming warranty expirations.
 
+Data Security
 
+PavVault offers optional PIN protection to help prevent unauthorized access.
 
-6. Data Security
+PavVault also supports optional biometric unlock (fingerprint or face recognition), processed entirely by your device's operating system. PavVault never receives, stores, or has access to your biometric data — only a confirmation of whether authentication succeeded.
 
-PavVault provides optional PIN protection to help prevent unauthorized access.
+You are responsible for protecting access to your device, keeping your PIN secure, and keeping your Google account secure if using Cloud Backup.
 
-Users are responsible for protecting access to their device and keeping their PIN secure.
+Data Loss and Deletion
 
+You are responsible for maintaining backups of your own information. PavVault is not responsible for data loss caused by device damage, device replacement, accidental deletion, operating system issues, revoked Google account access, or other circumstances outside reasonable control.
 
+You may delete your local data anytime by clearing data in the app or uninstalling it. You may remove your Cloud Backup from within PavVault (Settings → Delete Cloud Backup), or by revoking PavVault's access at myaccount.google.com/permissions.
 
-7. Data Loss
+Third Party Services
 
-Users are responsible for maintaining backups of their own information.
+PavVault uses Google Sign-In and the Google Drive API solely to provide the optional Cloud Backup feature, if and when you choose to use it.
 
-PavVault is not responsible for loss of data caused by device damage, device replacement, accidental deletion, operating system issues, or other circumstances outside reasonable control.
+If future features require other third-party services, this policy will be updated accordingly.
 
+Your Rights
 
+You may delete your stored information at any time by removing data from the app, uninstalling it, or revoking Google account access as described above.
 
-8. Third Party Services
-
-Currently, PavVault does not share user data with third-party services.
-
-If future features require third-party services, this Privacy Policy will be updated accordingly.
-
-
-
-9. Your Rights
-
-Users may delete their stored information at any time by removing data from the application or uninstalling the application.
-
-
-
-10. Contact
+Contact
 
 For questions regarding privacy, please contact:
 
